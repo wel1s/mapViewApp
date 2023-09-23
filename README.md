@@ -9,14 +9,14 @@ requirement
   
         npm install -g expo-cli 
 
-or
-        
-        sudo npm install -g expo-cli
-
-after cloning the project run with:
-
-        npx expo start
-
-or
-        
-        npm start
+  or
+          
+          sudo npm install -g expo-cli
+  
+  -->after cloning the project run with:
+  
+          npx expo start
+  
+  or
+          
+          npm start
