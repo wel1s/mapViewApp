@@ -12,6 +12,7 @@ requirement
         sudo npm install -g expo-cli
 
 after cloning the project run with:
+
   npx expo start
   
   npm start
