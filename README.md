@@ -1,8 +1,12 @@
 # mapViewApp
 simple android Map app
+
 requirement 
+
   -->Have Node 12 and above. download on https://nodejs.org/fr/download
+  
   -->install the Expo CLI command line utility with:  
+  
         npm install -g expo-cli 
               or
         sudo npm install -g expo-cli
